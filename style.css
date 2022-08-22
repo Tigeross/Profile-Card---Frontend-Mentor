@@ -55,12 +55,13 @@ main p:not(.age) {
 }
 
 .photo-div {
-    width: 102px;
-    height: 102px;
+    width: 108px;
+    height: 108px;
     border-radius: 50%;
     background-color: #fff;
     display: flex;
     justify-content: center;
+    align-items: center;
     margin-top: -48px;
     margin-bottom: 13px;
 }
